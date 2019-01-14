@@ -5,25 +5,25 @@ See below for notes on how to use these notes, or jump to the course pages
 ## Course Pages
 
 ### Introduction
-* [Practical Introduction](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/CW-1-Pearl-River-Intro.ipynb)
+* [Practical Introduction](docs/CW-1-Pearl-River-Intro.ipynb)
 
 ### Download
-* [Download page](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/Download.ipynb)
+* [Download page](docs/Download.ipynb)
 
 
 ### Classification
-* [Classification page](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/CW-1-PearlRiver-Class.ipynb)
+* [Classification page](docs/CW-1-PearlRiver-Class.ipynb)
 
 
 ### Modelling
-* [Modelling page](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/2021_UrbanModel.ipynb)
+* [Modelling page](docs/2021_UrbanModel.ipynb)
 
 
 ### Write Up
-* [Write Up page](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/WriteUp.ipynb)
+* [Write Up page](docs/WriteUp.ipynb)
 
 ### Project Advice
-* [Project FAQ](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/Project%20Advice.ipynb)
+* [Project FAQ](docsd/Project%20Advice.ipynb)
 
 ## Coursework notes for Geog 2021
 
@@ -49,11 +49,11 @@ or, if you are on the UCL Geography system, you can simply copy the file:
 
 ### Accessing the notes via a web page
 
-These coursenotes are available as web pages (html) from the [Geog 2021 course overview page](http://www2.geog.ucl.ac.uk/~plewis/geog2021) or more directly from the [practical introduction page](http://nbviewer.ipython.org/github/profLewis/Geog2021_Coursework/blob/master/CW-1-Pearl-River-Intro.ipynb).
+These coursenotes are available as web pages from the [Geog 0027 course overview page](http://www2.geog.ucl.ac.uk/~plewis/geog0027) or more directly from the [practical introduction page](docs/CW-1-Pearl-River-Intro.ipynb).
 
 ### Accessing the notes via github
 
-The notes are also available on [github](https://github.com/profLewis/Geog2021_Coursework). You can directly download the notes from [github](https://github.com/profLewis/Geog2021_Coursework), either using some [`git`](http://en.wikipedia.org/wiki/Git_(software)) software, e.g:
+The notes are also available on [github](https://github.com/profLewis/Geog0027_Coursework). You can directly download the notes from [github](https://github.com/profLewis/Geog0027_Coursework), either using some [`git`](http://en.wikipedia.org/wiki/Git_(software)) software, e.g:
 
 ```
 bash% mkdir -p ~/DATA/where_I_put_the_notes
@@ -61,7 +61,7 @@ bash% cd ~/DATA/where_I_put_the_notes
 bash% git clone https://github.com/profLewis/Geog2021_Coursework.git
 ```
 
-or by downloading the [course notes as a zip file](https://github.com/profLewis/Geog2021_Coursework/archive/master.zip).
+or by downloading the [course notes as a zip file](https://github.com/profLewis/Geog0027_Coursework/archive/master.zip).
 
 If you use `git`, you can apply any updates to the notes:
 
@@ -74,11 +74,11 @@ bash% git pull
 
 You can also fork the notes and create your own version.
 
-## Using the notes for Geog 2021
+## Using the notes for Geog 0027
 
 You can of course just read and digest the html notes, but you will find that there are snippets of computer code (in Python) at times. Note that you **do not** need to use the Python codes to do this coursework: you can do everything you need in ENVI and Excel. That said, you will be processing quite a number of images, and you may find the Python codes useful for at least semi-automating the tasks.
 
-### Running ipython to use the notes for Geog 2021
+### Running ipython to use the notes for Geog 0027
 
 Assuming you are on a unix system (including OS X, linux etc.), then first change directory to where the notes are:
 
@@ -92,7 +92,7 @@ Then start an [`ipython`] session:
 `bash% ipython`
 
 
-Then, for example, folling the code in the [`Download`](http://www2.geog.ucl.ac.uk/~plewis/Geog2021_Coursework/Download.html) section, type or paste the following at the ipython prompt (`In [1]:`):
+Then, for example, following the code in the [`Download`](docs/Download.html) section, type or paste the following at the ipython prompt (`In [1]:`):
 
 ```
 import sys
@@ -152,7 +152,7 @@ bash% ls -l *tif
 -rw-rw-r--. 1 plewis plewis 42996634 Feb 26 10:31 LT51220441995364CLT00_refl.tif
 ```
 
-### Running ipython notebooks to use the notes for Geog 2021
+### Running ipython notebooks to use the notes for Geog 0027
 
 In many ways a better approach is to use the ipython notebooks:
 
