@@ -1,5 +1,7 @@
 # Geog0027_Coursework
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master)
+
 [ReadTheDocs](https://geog0027-coursework.readthedocs.io/en/latest/)
 
 See below for notes on how to use these notes, or jump to the course pages
