@@ -23,7 +23,7 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Write Up page](docs/WriteUp.ipynb)
 
 ### Project Advice
-* [Project FAQ](docs/Project%20Advice.ipynb)
+* [Project FAQ](docs/Project_Advice.ipynb)
 
 ## Coursework notes for Geog 0027
 

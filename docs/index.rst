@@ -20,19 +20,20 @@ Department of Geography
 University College London
 
 
-Welcome to GEOG0027 Coursework documentation!
-=============================================
+Welcome to GEOG0027 Coursework documentation
+============================================
 
 .. toctree::
-   :maxdepth: 2
+   :numbered:
+   :maxdepth: 3
    :caption: Contents:
 
-  Introduction <CW-1-Pearl-River-Intro.ipynb>
-  Download <Download.ipynb>
-  Classification <CW-1-PearlRiver-Class.ipynb>
-  Modelling <2021_UrbanModel.ipynb>
-  Project Write up <WriteUp.ipynb>
-  Project Advice <Project%20Advice.ipynb>
+   Introduction <CW-1-Pearl-River-Intro.ipynb>
+   Download <Download.ipynb>
+   Classification <CW-1-PearlRiver-Class.ipynb>
+   Modelling <2021_UrbanModel.ipynb>
+   Project Write up <WriteUp.ipynb>
+   Project Advice <Project_Advice.ipynb>
 
 Indices and tables
 ==================

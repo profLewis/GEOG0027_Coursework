@@ -35,7 +35,7 @@ Write Up
 Project Advice
 ~~~~~~~~~~~~~~
 
--  `Project FAQ <docsd/Project%20Advice.ipynb>`__
+-  `Project FAQ <docsd/Project_Advice.ipynb>`__
 
 Coursework notes for Geog 0027
 ------------------------------
