@@ -92,7 +92,7 @@ Then start an [`ipython`] session:
 `bash% ipython`
 
 
-Then, for example, following the code in the [`Download`](docs/Download.html) section, type or paste the following at the ipython prompt (`In [1]:`):
+Then, for example, following the code in the [`Download`](docs/Download.ipynb) section, type or paste the following at the ipython prompt (`In [1]:`):
 
 ```
 import sys
