@@ -1,3 +1,7 @@
+.. figure:: https://github.com/profLewis/Geog2021_Coursework/blob/master/images/ucl_logo.png?raw=true
+   :alt: UCL
+
+
 Geog0027 Coursework
 ===================
 .. GEOG0027 Coursework documentation master file, created by
