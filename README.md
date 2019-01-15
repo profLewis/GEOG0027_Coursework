@@ -1,4 +1,4 @@
-# Geog2021_Coursework
+# Geog0027_Coursework
 
 See below for notes on how to use these notes, or jump to the course pages
 
@@ -25,7 +25,7 @@ See below for notes on how to use these notes, or jump to the course pages
 ### Project Advice
 * [Project FAQ](docsd/Project%20Advice.ipynb)
 
-## Coursework notes for Geog 2021
+## Coursework notes for Geog 0027
 
 ### Accessing a test dataset
 
@@ -162,9 +162,9 @@ bash% mkdir -p ~/DATA/where_I_put_the_notes
 bash% cd ~/DATA/where_I_put_the_notes/Geog2021_Coursework
 ```
 
-Then start a browser (e.g. firefox, safari etc) and start an  [`ipython notebook`] session:
+Then start a browser (e.g. firefox, safari etc) and start a  [`jupyter notebook`] session:
 
-`bash% ipython notebook`
+`bash% jupyter notebook`
 
 This should open a page in your browser, e.g. `http://localhost:8889/tree`
 
