@@ -1,5 +1,7 @@
 # Geog0027_Coursework
 
+[ReadTheDocs](https://geog0027-coursework.readthedocs.io/en/latest/)
+
 See below for notes on how to use these notes, or jump to the course pages
 
 ## Course Pages
