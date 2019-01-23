@@ -37,3 +37,4 @@ There are various ways you can access Earth Observation datasets, but for this p
 
 These are available to you via a [Google Earth Engine App](https://plewis.users.earthengine.app/)
 
+[![GEE](https://plewis.users.earthengine.app/view/shenzhen)](https://plewis.users.earthengine.app/)
