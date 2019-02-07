@@ -56,7 +56,7 @@ def sort_landsat(files,ul="767385 2533665",lr="827985 2493765",maskgood=True):
         try:
             box = "-ul_lr %d %d %d %d"%(ul[0],ul[1],lr[0],lr[1])
         except:
-            print "you messed up the ul and lr inputs- returning to defaults"
+            print ("you messed up the ul and lr inputs- returning to defaults")
             box = "-ul_lr 767385 2533665 827985 2493765"
         nbfiles = []
         

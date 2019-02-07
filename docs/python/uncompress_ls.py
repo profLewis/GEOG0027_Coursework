@@ -21,13 +21,13 @@ def uncompress_ls(dirname,temp_dir='temp'):
       os.makedirs(temp_dir)
 
   for tar_name in glob(dirname):
-    print tar_name
+    print (tar_name)
     # compressed file -- uncompress to tmp directory
     tar_path = os.path.abspath(tar_name)
     extraction_dir = os.path.join(os.getcwd(), os.path.splitext(tar_name)[0])
     extraction_dir_end = extraction_dir.split('-')[-1]
     extraction_dir = extraction_dir.split('-'+extraction_dir_end)[0]
-    print extraction_dir
+    print (extraction_dir)
     try:
         os.mkdir(extraction_dir)
     except:
