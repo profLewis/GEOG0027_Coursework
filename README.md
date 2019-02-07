@@ -1,5 +1,7 @@
 # Geog0027_Coursework
 
+![](docs/images/class_movie4.gif)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master)
 
 [ReadTheDocs](https://geog0027-coursework.readthedocs.io/en/latest/)
@@ -12,7 +14,7 @@ See below for notes on how to use these notes, or jump to the course pages
 * [Practical Introduction](docs/CW-1-Pearl-River-Intro.ipynb)
 
 ### Download
-* [Download page](docs/Download.ipynb)
+* [Download page](docs/DownloadEE.ipynb)
 
 
 ### Classification
