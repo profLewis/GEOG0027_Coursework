@@ -39,4 +39,4 @@ There are various ways you can access Earth Observation datasets, but for this p
 
 These are available to you via a [Google Earth Engine App](https://plewis.users.earthengine.app/)
 
-[![GEE](https://lh3.googleusercontent.com/vY7MTbYmI_HyotyvxlGxxX3gcRhUf5EFiJ4p4Q6m9KHVq5lDdVEEugjXx7QVKSM_1frU4hzfzDx-cUCQdx8ioMB6dKBBdvDt3LRVyAq1)](https://plewis.users.earthengine.app/)
+[![GEE](https://plewis.users.earthengine.app/view/shenzhen)
