@@ -6,7 +6,8 @@ dependencies:
   - pandoc
   - nbconvert!=5.4
   - ipykernel
-  - pyephem
   - xlrd
   - pip:
     - nbsphinx
+  - r-base
+  - r-essentials
