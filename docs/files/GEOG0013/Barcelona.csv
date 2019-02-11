@@ -1,0 +1,74 @@
+"","neighbourhood","district","avg_rent","p_fcitizen","unemp","income"
+"1","Baró de Viver","Sant Andreu",362.9,10.48,9.4,60.2
+"2","Can Baró","Horta-Guinardo",539.6,12.81,8,88.1
+"3","Can Peguera","Nou Barris",NA,7.41,9.9,51.1
+"4","Canyelles","Nou Barris",575.8,4.23,12.9,55.6
+"5","Ciutat Meridiana","Nou Barris",399.2,27.43,17.8,34.5
+"6","Diagonal Mar i el Front Marítim del Poblenou","Sant Marti",981.9,16.48,9.4,162.5
+"7","el Baix Guinardó","Horta-Guinardo",631,12.6,7.6,90.4
+"8","el Barri Gòtic","Ciutat Vella",771.1,41.74,8.9,108.5
+"9","el Besòs i el Maresme","Sant Marti",506,24.52,12.3,54.4
+"10","el Bon Pastor","Sant Andreu",526.1,12.76,10.9,58
+"11","el Camp d'en Grassot i Gràcia Nova","Gracia",712.6,12.1,7.4,103
+"12","el Camp de l'Arpa del Clot","Sant Marti",624.2,15.05,9.2,78.7
+"13","el Carmel","Horta-Guinardo",504.6,12.49,10.5,56.9
+"14","el Clot","Sant Marti",637,13.32,8.6,84.7
+"15","el Coll","Gracia",539.6,13.41,6.7,89
+"16","el Congrés i els Indians","Sant Andreu",594.3,12.63,9.1,70.1
+"17","el Fort Pienc","Eixample",770.1,19.36,7.4,104.8
+"18","el Guinardó","Horta-Guinardo",596.1,12.9,8.9,82.7
+"19","el Parc i la Llacuna del Poblenou","Sant Marti",755.4,19.68,7.4,96.8
+"20","el Poble Sec","Sants-Montjuic",598.5,29.2,10.3,74.3
+"21","el Poblenou","Sant Marti",711.5,16.43,7.5,95.6
+"22","el Putxet i el Farró","Sarria-Sant Gervasi",790.2,12.21,6.5,141
+"23","el Raval","Ciutat Vella",598.9,48.11,11.4,75.8
+"24","el Turó de la Peira","Nou Barris",485.4,19.95,10.7,48.8
+"25","Horta","Horta-Guinardo",568.3,10.01,10.7,80.9
+"26","Hostafrancs","Sants-Montjuic",601.6,20.24,8,82.2
+"27","l'Antiga Esquerra de l'Eixample","Eixample",906.1,18.57,6.5,128.9
+"28","la Barceloneta","Ciutat Vella",598.2,31.3,10.9,76.6
+"29","la Bordeta","Sants-Montjuic",607.7,12.03,8.5,74.3
+"30","la Clota","Horta-Guinardo",NA,14.61,5.7,89.3
+"31","la Dreta de l'Eixample","Eixample",988.9,19.15,5.8,165.8
+"32","la Font d'en Fargues","Horta-Guinardo",749.2,5.4,10.7,95.2
+"33","la Font de la Guatlla","Sants-Montjuic",687.3,18.34,10.5,83.2
+"34","la Guineueta","Nou Barris",562.5,7.08,13.3,55.9
+"35","la Marina de Port","Sants-Montjuic",536.2,13.03,10.9,70.4
+"36","la Marina del Prat Vermell","Sants-Montjuic",381.1,7.34,19.1,36.9
+"37","la Maternitat i Sant Ramon","Les Corts",679.5,10.27,7.7,109.9
+"38","la Nova Esquerra de l'Eixample","Eixample",766.9,16.23,7,103.8
+"39","la Prosperitat","Nou Barris",531.3,13.12,11.5,54
+"40","la Sagrada Família","Eixample",704.4,17.22,7.4,95.8
+"41","la Sagrera","Sant Andreu",608.6,11.84,8.7,76.8
+"42","la Salut","Gracia",637.8,11.97,7.6,114.4
+"43","la Teixonera","Horta-Guinardo",547.2,11.93,8.6,74.5
+"44","la Trinitat Nova","Nou Barris",456.7,17.62,17.2,35.6
+"45","la Trinitat Vella","Sant Andreu",465,27.97,16.1,43.1
+"46","la Vall d'Hebron","Horta-Guinardo",701.4,8.07,9,92.6
+"47","la Verneda i la Pau","Sant Marti",595.4,10.27,11.2,57.5
+"48","la Vila de Gràcia","Gracia",726.6,18.55,7.2,106.3
+"49","la Vila Olímpica del Poblenou","Sant Marti",1116.3,15.57,7.4,150.2
+"50","les Corts","Les Corts",817.2,10.22,7.5,124.5
+"51","les Roquetes","Nou Barris",466.9,19.36,12.1,47.8
+"52","les Tres Torres","Sarria-Sant Gervasi",1337.8,9.95,4.1,214.1
+"53","Montbau","Horta-Guinardo",621.8,9.9,9.8,72.3
+"54","Navas","Sant Andreu",650.8,13.32,8.8,85.8
+"55","Pedralbes","Les Corts",1711.4,14.84,3.9,250.5
+"56","Porta","Nou Barris",556.5,13.67,10.9,61.4
+"57","Provençals del Poblenou","Sant Marti",670.4,12.64,9.1,102.8
+"58","Sant Andreu","Sant Andreu",609.6,6.85,9.6,75.6
+"59","Sant Antoni","Eixample",746,19.64,7.7,98.6
+"60","Sant Genís dels Agudells","Horta-Guinardo",558.5,10.67,9.6,93.5
+"61","Sant Gervasi - Galvany","Sarria-Sant Gervasi",1095.7,10.77,4.6,205.1
+"62","Sant Gervasi - la Bonanova","Sarria-Sant Gervasi",1056.1,10.16,4.6,188.9
+"63","Sant Martí de Provençals","Sant Marti",697.3,10.46,10.9,68.3
+"64","Sant Pere, Santa Caterina i la Ribera","Ciutat Vella",708,38.89,9.6,96.4
+"65","Sants","Sants-Montjuic",627.9,16.11,7.9,88.2
+"66","Sants - Badal","Sants-Montjuic",606.8,16.02,7.2,77
+"67","Sarrià","Sarria-Sant Gervasi",1101.2,11.26,3.9,199.1
+"68","Torre Baró","Nou Barris",420.6,16.12,12.3,47.1
+"69","Vallbona","Nou Barris",450,11.7,16.3,37.8
+"70","Vallcarca i els Penitents","Gracia",712.8,12.12,7.9,111.2
+"71","Vallvidrera, el Tibidabo i les Planes","Sarria-Sant Gervasi",824.4,13.05,3.6,151.7
+"72","Verdun","Nou Barris",419.8,16.94,12.3,55.4
+"73","Vilapicina i la Torre Llobeta","Nou Barris",583.1,12.22,10.3,65
