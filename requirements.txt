@@ -1,4 +1,6 @@
 numpy
 scipy
 pandas
+tzlocal
+matplotlib
 rpy2
