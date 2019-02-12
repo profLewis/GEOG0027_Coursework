@@ -1,5 +1,2 @@
 ipykernel
 nbsphinx
-r-base
-r-essentials
-rpy2
