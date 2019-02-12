@@ -1,4 +1,4 @@
-,year,investment,population,private_wage,agr_output,indust_output,agr_pop,avg_wage
+index,year,investment,population,private_wage,agr_output,indust_output,agr_pop,avg_wage
 0,1987.0,251.01,5832.15,4.12,348.61,878.29,4522.24,1743.0
 1,1988.0,353.59,5928.31,7.93,473.78,1318.9,4561.77,2250.0
 2,1989.0,347.34,6024.98,13.27,548.6,1647.24,4602.23,2678.0
