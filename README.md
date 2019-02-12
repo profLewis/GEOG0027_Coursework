@@ -2,7 +2,10 @@
 
 ![](docs/images/class_movie4.gif)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master)
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master)
+
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master?urlpath=rstudio)
+
 
 [ReadTheDocs](https://geog0027-coursework.readthedocs.io/en/latest/)
 
