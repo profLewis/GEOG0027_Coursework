@@ -9,6 +9,6 @@ dependencies:
   - xlrd
   - pip:
     - nbsphinx
-  - r-base
+  - r
   - r-essentials
   - rpy2
