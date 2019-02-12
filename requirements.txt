@@ -1,6 +1,7 @@
 numpy
 scipy
 pandas
+simplegeneric
 tzlocal
 matplotlib
 rpy2
