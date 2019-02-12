@@ -1,4 +1,3 @@
 ipykernel
 nbsphinx
-r
 r-tidyverse
