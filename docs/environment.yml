@@ -10,3 +10,4 @@ dependencies:
   - xlrd
   - pip:
     - nbsphinx
+    - sphinx_rtd_theme
