@@ -8,6 +8,7 @@ dependencies:
   - nbconvert!=5.4
   - ipykernel
   - xlrd
+  - rpy2
   - pip:
     - nbsphinx
     - sphinx_rtd_theme
