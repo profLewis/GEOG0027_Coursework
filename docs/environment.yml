@@ -8,6 +8,8 @@ dependencies:
   - nbconvert!=5.4
   - ipykernel
   - xlrd
+  - numpy
+  - pandas
   - rpy2
   - pip:
     - nbsphinx
