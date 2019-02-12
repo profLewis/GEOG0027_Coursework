@@ -11,5 +11,4 @@ dependencies:
   - pip:
     - nbsphinx
   - r
-  - r-essentials
-  - rpy2
+  - r-tidyverse
