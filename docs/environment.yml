@@ -10,5 +10,3 @@ dependencies:
   - xlrd
   - pip:
     - nbsphinx
-  - r
-  - r-tidyverse
