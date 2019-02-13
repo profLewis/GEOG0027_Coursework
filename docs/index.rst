@@ -34,7 +34,6 @@ Welcome to GEOG0027 Coursework documentation
 
    Introduction <CW-1-Pearl-River-Intro.ipynb>
    Google Download <DownloadEE.ipynb>
-   USGS Download <Download.ipynb>
    Classification <CW-1-PearlRiver-Class.ipynb>
    Modelling <2021_UrbanModel.ipynb>
    Project Write up <WriteUp.ipynb>
@@ -60,9 +59,9 @@ software, e.g:
 
 ::
 
-   bash% mkdir -p ~/DATA/where_I_put_the_notes
-   bash% cd ~/DATA/where_I_put_the_notes
-   bash% git clone https://github.com/profLewis/Geog2021_Coursework.git
+   bash% mkdir -p ~/DATA
+   bash% cd ~/DATA
+   bash% git clone https://github.com/profLewis/Geog0027_Coursework.git
 
 or by downloading the `course notes as a zip
 file <https://github.com/profLewis/Geog0027_Coursework/archive/master.zip>`__.
@@ -71,8 +70,8 @@ If you use ``git``, you can apply any updates to the notes:
 
 ::
 
-   bash% mkdir -p ~/DATA/where_I_put_the_notes
-   bash% cd ~/DATA/where_I_put_the_notes/Geog2021_Coursework
+   bash% mkdir -p ~/DATA
+   bash% cd ~/DATA/Geog2021_Coursework
    bash% git reset --hard HEAD
    bash% git pull
 
@@ -93,8 +92,8 @@ In many ways a better approach is to use the ipython notebooks:
 
 ::
 
-   bash% mkdir -p ~/DATA/where_I_put_the_notes
-   bash% cd ~/DATA/where_I_put_the_notes/Geog2021_Coursework
+   bash% mkdir -p ~/DATA
+   bash% cd ~/DATA/Geog2021_Coursework
 
 Then start a browser (e.g. firefox, safari etc) and start a
 [``jupyter notebook``] session:
