@@ -1,6 +1,5 @@
 channels:
   - r
-  - conda-forge/label/cf201901
   - conda-forge
 dependencies:
   - python>=3
