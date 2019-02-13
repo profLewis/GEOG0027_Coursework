@@ -33,6 +33,7 @@ Welcome to GEOG0027 Coursework documentation
    :caption: Contents:
 
    Introduction <CW-1-Pearl-River-Intro.ipynb>
+   Computer Setup <Running_ENVI_on_your_own_computer.ipynb>
    Google Download <DownloadEE.ipynb>
    Classification <CW-1-PearlRiver-Class.ipynb>
    Modelling <2021_UrbanModel.ipynb>
