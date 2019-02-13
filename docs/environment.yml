@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python>=3
   - sphinx>=1.6
-  - pandoc
+  - pandoc<=1.19.2
   - nbconvert!=5.4
   - ipykernel
   - xlrd
