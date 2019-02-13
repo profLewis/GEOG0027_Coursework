@@ -1,1 +1,3 @@
-install.packages(c("readr", ‘glue’, ‘stringi’, ‘xfun’, ‘backports’, ‘tinytex’))
+install.packages("readr")
+install.packages("glue")
+
