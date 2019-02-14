@@ -1,4 +1,4 @@
-# Geog0027_Coursework_R_code
+# Geog0027 Coursework R-code
 
 ![](docs/images/class_movie4.gif)
 
