@@ -1,0 +1,9 @@
+Unclassified, 0,   0,   0
+Water, 0,   0,   255
+Water-Mud,  20, 78,   200
+Urban, 200,   30, 0
+Peri-Urban, 200, 180,   0
+Soil, 100,   100, 0
+Vegetation, 20, 200, 0
+Forest, 10, 100,   0
+Masked Pixels, 64,  64,  64 
