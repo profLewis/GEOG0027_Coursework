@@ -1,0 +1,8 @@
+title: Geog2021 coursework
+description: Coursework notes for Geog 2021
+google_analytics: UA-1347772-1
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
