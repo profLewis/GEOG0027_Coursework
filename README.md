@@ -1,6 +1,6 @@
 # Geog0027_Coursework
 
-![](docs/images/class_movie4.gif)
+![](https://github.com/profLewis/GEOG0027_Coursework/tree/master/docs/images/class_movie4.gif)
 
 Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profLewis/GEOG0027_Coursework.git/master)
 
