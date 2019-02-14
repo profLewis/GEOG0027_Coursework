@@ -34,7 +34,7 @@ Welcome to GEOG0027 Coursework documentation
 
    Introduction <CW-1-Pearl-River-Intro.ipynb>
    
-   Computer Setup <Running_ENVI_on_your_own_computer.ipynb>
+   ENVI Setup <Running_ENVI_on_your_own_computer.ipynb>
    Modelling Setup <Rsetup.ipynb>
    Google Download <DownloadEE.ipynb>
    
