@@ -16,9 +16,14 @@ See below for notes on how to use these notes, or jump to the course pages
 ### Introduction
 * [Practical Introduction](docs/CW-1-Pearl-River-Intro.ipynb)
 
+### Computer setup
+* [Running ENVI](docs/Running_ENVI_on_your_own_computer.ipynb)
+
+### Modelling setup
+* [RStudio setup](docs/Rsetup.ipynb)
+
 ### Download
 * [Download page](docs/DownloadEE.ipynb)
-
 
 ### Classification
 * [Classification page](docs/CW-1-PearlRiver-Class.ipynb)
