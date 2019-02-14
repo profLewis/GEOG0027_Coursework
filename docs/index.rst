@@ -2,7 +2,7 @@
    :alt: UCL
 
 
-Geog0027 Coursework: R-codes
+Geog0027 Coursework: R-code
 ============================
 .. GEOG0027 Coursework documentation master file, created by
    sphinx-quickstart on Tue Jan 15 12:17:06 2019.
