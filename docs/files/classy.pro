@@ -124,7 +124,7 @@ Pro classy, input_file, nclasses, BANDS
   endelse
 
   ; we assume the directory name is the year
-  year = strsplit(input_file,PATH_SEP(), /EXTRACT)
+  year = strsplit(input_file, /EXTRACT, '/')
   year = year[-2]
   ; get the year
   print,'year ',year
@@ -277,7 +277,7 @@ pro make_gif, input_file
   on_error, 2
 
   ; we assume the directory name is the year
-  year = strsplit(input_file,PATH_SEP(), /EXTRACT)
+  year = strsplit(input_file, /EXTRACT, '/')
   year = year[-2]
   ; get the year
   print,'year ',year
