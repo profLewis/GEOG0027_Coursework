@@ -32,17 +32,19 @@ Welcome to GEOG0027 Coursework documentation
    :maxdepth: 3
    :caption: Contents:
 
-   Introduction <CW-1-Pearl-River-Intro.ipynb>
+   Introduction <1_PearlRiverIntro.ipynb>
    
-   ENVI Setup <Running_ENVI_on_your_own_computer.ipynb>
-   Modelling Setup <Rsetup.ipynb>
-   Google Download <DownloadEE.ipynb>
+   ENVI Setup <2_RunningENVIOnYourOwnComputer.ipynb>
+   Modelling Setup <3_RunningROnYourOwnComputer.ipynb>
+   Google Download <4_DownloadLandsatFromGEE.ipynb>
    
-   Classification <CW-1-PearlRiver-Class.ipynb>
-   Modelling <2021_UrbanModel.ipynb>
+   Classification <5_PearlRiverClassification.ipynb>
+   Modelling <5_UrbanModel.ipynb>
    
-   Project Write up <WriteUp.ipynb>
-   Project Advice <Project_Advice.ipynb>
+   Project Write up <7_WriteUp.ipynb>
+   Project Advice <8_ProjectAdvice.ipynb>
+   
+   
 
 Indices and tables
 ==================
