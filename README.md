@@ -45,6 +45,4 @@ See below for notes on how to use these notes, or jump to the course pages
 
 There are various ways you can access Earth Observation datasets, but for this practical, we will be using composite images (one per year) derived from Landsat data.
 
-These are available to you via a [Google Earth Engine App](https://plewis.users.earthengine.app/)
-
-[![GEE](https://plewis.users.earthengine.app/view/shenzhen)
+These are available to you via a [Google Earth Engine App](https://plewis.users.earthengine.app/view/shenzhen)
