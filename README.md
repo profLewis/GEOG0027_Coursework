@@ -14,30 +14,30 @@ See below for notes on how to use these notes, or jump to the course pages
 ## Course Pages
 
 ### Introduction
-* [Practical Introduction](docs/CW-1-Pearl-River-Intro.ipynb)
+* [Practical Introduction](docs/1_PearlRiverIntro.ipynb)
 
 ### ENVI setup
-* [Running ENVI](docs/Running_ENVI_on_your_own_computer.ipynb)
+* [Running ENVI](docs/2_RunningENVIOnYourOwnComputer.ipynb)
 
 ### Modelling setup
-* [RStudio setup](docs/Rsetup.ipynb)
+* [RStudio setup](docs/3_RunningROnYourOwnComputer.ipynb)
 
 ### Download
-* [Download page](docs/DownloadEE.ipynb)
+* [Download page](docs/4_DownloadLandsatFromGEE.ipynb)
 
 ### Classification
-* [Classification page](docs/CW-1-PearlRiver-Class.ipynb)
+* [Classification page](docs/5_PearlRiverClassification.ipynb)
 
 
 ### Modelling
-* [Modelling page](docs/2021_UrbanModel.ipynb)
+* [Modelling page](docs/6_UrbanModel.ipynb)
 
 
 ### Write Up
-* [Write Up page](docs/WriteUp.ipynb)
+* [Write Up page](docs/7_WriteUp.ipynb)
 
 ### Project Advice
-* [Project FAQ](docs/Project_Advice.ipynb)
+* [Project FAQ](docs/8_ProjectAdvice.ipynb)
 
 ## Coursework notes for Geog 0027
 
